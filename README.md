@@ -1,14 +1,16 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://rishavchanda.io)
+
+![Group-3](https://user-images.githubusercontent.com/58667012/179367040-cab92d86-17c6-48e7-9227-ebc07f47186d.png)
 
 
 <h1 align="center">Hi 👋, I'm Sabir Hussain</h1>
 <h3 align="center">A passionate Flutter Developer | Android Developer | Dart | Java | C++ | Firebase | C | frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-sabirhussain&label=Profile%20views&color=0e75b6&style=flat" alt="m-sabirhussain" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-sabirhussain" alt="m-sabirhussain" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-sabirhussain" alt="m-sabirhussain" /></a> </p>![Group-3](https://user-images.githubusercontent.com/58667012/179367036-8ac5e0ed-c454-4a79-bec9-64236dbc16aa.png)
+
 
 - 🔭 I’m currently working on **Dropsourcing**
 
