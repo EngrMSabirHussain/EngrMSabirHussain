@@ -1,17 +1,17 @@
-![Group-3](https://user-images.githubusercontent.com/58667012/179367636-c68a31e8-d700-4152-ab80-28f849cfdd1d.png)
+<img align="center" alt="Main Picture" width="100%" height="400" src="https://user-images.githubusercontent.com/58667012/192212885-4f6f3b0c-fccf-4221-8b0f-a0de09bf7ec2.png">
 
 <h1 align="center">Hi 👋, I'm Sabir Hussain</h1>
-<h3 align="center">A passionate Flutter Developer | Android Developer | Dart | Java | C++ | Firebase | C | frontend developer from Pakistan</h3>
+<h3 align="center">A passionate J. Java Developer | Java | C++ | C | Firebase | Backend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Forsage BUSD**
 
-- 🌱 I’m currently learning **Flutter & Java Spring Boot**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-SabirHussain](https://github.com/M-SabirHussain)
 
-- 💬 Ask me about **C, C++, Dart, Flutter**
+- 💬 Ask me about **C, C++, Java, Java Spring Boot**
 
 - 📫 How to reach me **superior.sabirhussain@gmail.com**
 
